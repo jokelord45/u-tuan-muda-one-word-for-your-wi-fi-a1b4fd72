@@ -1,8 +1,8 @@
 # One Word for Your Wi-Fi
 
 [![make.fun bounty](https://make.fun/badge/u-tuan-muda-one-word-for-your-wi-fi-a1b4fd72.svg)](https://make.fun/bounty/u-tuan-muda-one-word-for-your-wi-fi-a1b4fd72)
-[![make.fun rank](https://make.fun/badge/u-tuan-muda-one-word-for-your-wi-fi-a1b4fd72/{owner}/{repo}/rank.svg)](https://make.fun/bounty/u-tuan-muda-one-word-for-your-wi-fi-a1b4fd72)
-[![make.fun reward](https://make.fun/badge/u-tuan-muda-one-word-for-your-wi-fi-a1b4fd72/{owner}/{repo}/reward.svg)](https://make.fun/bounty/u-tuan-muda-one-word-for-your-wi-fi-a1b4fd72)
+[![make.fun rank](https://make.fun/badge/u-tuan-muda-one-word-for-your-wi-fi-a1b4fd72/jokelord45/u-tuan-muda-one-word-for-your-wi-fi-a1b4fd72/rank.svg)](https://make.fun/bounty/u-tuan-muda-one-word-for-your-wi-fi-a1b4fd72)
+[![make.fun reward](https://make.fun/badge/u-tuan-muda-one-word-for-your-wi-fi-a1b4fd72/jokelord45/u-tuan-muda-one-word-for-your-wi-fi-a1b4fd72/reward.svg)](https://make.fun/bounty/u-tuan-muda-one-word-for-your-wi-fi-a1b4fd72)
 
 A make.fun bounty entry: a program that picks a single word describing your Wi-Fi — funny and true about bad home Wi-Fi — and writes it to `/output/entry.txt`.
 
